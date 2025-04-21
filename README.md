@@ -67,12 +67,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/YsaVilela/YsaVilela/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="ysadora.vi.l.silva@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
